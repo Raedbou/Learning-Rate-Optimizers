@@ -4,6 +4,7 @@ Spring 2021
 
 Code:
 Two models were inverstigated. Each model has a main file:
+
 	1- Auxiliary Model: Deep Net with Auxiliary Loss 
 	implemented in PyTorch
 	2- CNN: Convolutionl Neural Network implemented in Keras.
@@ -11,6 +12,7 @@ Two models were inverstigated. Each model has a main file:
 All optimizers has been implements from the SCIKIT library.
 
 In each main the routine consists of the following:
+
 	i) data import
 	ii) Data pre-processing and data truncation
 	iii) Model and fitness function definition
