@@ -6,7 +6,6 @@ Code:
 Two models were inverstigated. Each model has a main file:
 	1- Auxiliary Model: Deep Net with Auxiliary Loss 
 	implemented in PyTorch
-	
 	2- CNN: Convolutionl Neural Network implemented in Keras.
 
 All optimizers has been implements from the SCIKIT library.
