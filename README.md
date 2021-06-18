@@ -17,7 +17,7 @@ In each main the routine consists of the following:
 	ii) Data pre-processing and data truncation
 	iii) Model and fitness function definition
 	iv) Optimization routines
-	v) Visulaizing optimizer results
+	v) Visualizing optimizer results
 	vi) Reimporting whole data set without truncation
 	vii) Training models with optimal parameters found by optimizers
 	viii) Visulatizing learning curves of the optimized models.
